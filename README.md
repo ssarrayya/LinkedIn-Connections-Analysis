@@ -1,14 +1,14 @@
 # LinkedIn Connections Analysis
 
-This is the repository of the analysis of tmy LinkedIn Connections data. For a concise report, here's a link to the [Medium article](https://medium.com/@sarah-akinkunmi/linkedin-connections-analysis-1a40eb9c9d46) on the analysis.
+This is the repository of the analysis of my LinkedIn Connections data. For a concise report, here's a link to the [Medium article](https://medium.com/@sarah-akinkunmi/linkedin-connections-analysis-1a40eb9c9d46) on the analysis.
 
 
 ## Purpose of the analysis
 The objective of my analysis is to determine the
 - total number of connections I have.
-- connections made over time. In the Power BI report, you would see this first as years (2017–2022) and you can drill down to quarters in a particular year, months of a year, or even days in the month.
-- professions and their connection count.
-- companies and their connection count.
+- connections made over time.
+- professions and their connection counts.
+- companies and their connection counts.
 
 ## Process
 - Data collection - data request
