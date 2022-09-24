@@ -17,6 +17,6 @@ The objective of my analysis is to determine the
 
 [![Dashboard of the analysis](/Connection.jpg "Dashboard by Sarah Akinkunmi")](https://github.com/ssarrayya/LinkedIn-Connections-Analysis/blob/main/Connection.jpg)
 
-To view in an interactive mode [click here](https://app.powerbi.com/view?r=eyJrIjoiZTUwMmVkN2QtYTBjNy00ZmJmLTg1ZDgtYTFlZDVkODEyN2I3IiwidCI6IjUzZTIyOWIzLTM0MTAtNGQ3MS04NDNkLWQxYzkyYzlkYjYzNiJ9&embedImagePlaceholder=true&pageName=ReportSection_
+To view in an interactive mode, [click here](https://app.powerbi.com/view?r=eyJrIjoiZTUwMmVkN2QtYTBjNy00ZmJmLTg1ZDgtYTFlZDVkODEyN2I3IiwidCI6IjUzZTIyOWIzLTM0MTAtNGQ3MS04NDNkLWQxYzkyYzlkYjYzNiJ9&embedImagePlaceholder=true&pageName=ReportSection_)
 
 
