@@ -15,9 +15,8 @@ The objective of my analysis is to determine the
 - Data cleaning
 - Data analysis and visualization
 
-[![Dashboard of the analysis](/data-viz.png "Dashboard by Sarah Akinkunmi")](https://github.com/ssarrayya/LinkedIn-Connections-Analysis/blob/main/Connection.jpg)
+[![Dashboard of the analysis](/Connection.jpg "Dashboard by Sarah Akinkunmi")](https://github.com/ssarrayya/LinkedIn-Connections-Analysis/blob/main/Connection.jpg)
 
-
-(<iframe title="Connection" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTUwMmVkN2QtYTBjNy00ZmJmLTg1ZDgtYTFlZDVkODEyN2I3IiwidCI6IjUzZTIyOWIzLTM0MTAtNGQ3MS04NDNkLWQxYzkyYzlkYjYzNiJ9&embedImagePlaceholder=true&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>)
+To view in an interactive mode [click here](https://app.powerbi.com/view?r=eyJrIjoiZTUwMmVkN2QtYTBjNy00ZmJmLTg1ZDgtYTFlZDVkODEyN2I3IiwidCI6IjUzZTIyOWIzLTM0MTAtNGQ3MS04NDNkLWQxYzkyYzlkYjYzNiJ9&embedImagePlaceholder=true&pageName=ReportSection_
 
 
